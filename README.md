@@ -15,7 +15,7 @@ Para iniciar o desenvolvimento é necessário clonar o projeto:
 
 Será necessário utilizar o editor de texto "Visual Studio Code".
 
-Após abrir o projeto no editor de texto, será necessário a instalação do Express para o back-end e o Vite pro front-end.
+Após abrir o projeto no editor de texto, será necessário a instalação do Express para o back-end e o Vite para o front-end.
 
 Para instalar no back-end será necessário acessar o terminal:
 - cd Telephony-TalkMore/server;
