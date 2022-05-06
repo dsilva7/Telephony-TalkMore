@@ -2,8 +2,8 @@
 
 # Getting Started
 
-Editor de texto.
-NodeJS - version 16.14.0
+- Editor de texto.
+- NodeJS - version 16.14.0
 
 # Development
 
