@@ -23,7 +23,7 @@ Para instalar no back-end será necessário acessar o terminal:
 
 A instalação no front-end é necessário abrir um segundo terminal:
 - cd Telephony-TalkMore/client;
-- npm install Vite;
+- npm install;
 
 # Running
 
