@@ -2,7 +2,7 @@
 
 # Getting Started
 
-Visual Studio Code: necessário para desenvolvimento do projeto.
+Editor de texto.
 
 # Development
 
@@ -13,26 +13,24 @@ Para iniciar o desenvolvimento é necessário clonar o projeto:
 
 # Settings
 
-Será necessário utilizar o editor de texto "Visual Studio Code".
+Será necessário utilizar o editor de texto.
 
 Após abrir o projeto no editor de texto, será necessário a instalação do Express para o back-end e o Vite para o front-end.
 
 Para instalar no back-end será necessário acessar o terminal:
-- cd Telephony-TalkMore/server;
-- npm install Express;
+- npm install;
 
 A instalação no front-end é necessário abrir um segundo terminal:
-- cd Telephony-TalkMore/client;
 - npm install;
 
 # Running
 
 Para rodar o sistema é necessário acessar dois terminais um para o back-end e um ao front-end.
 Iniciando o back-end:
-- Acessar o terminal: cd Telephony-TalkMore/server - npm run start
+- Acessar o terminal: npm run start
 
 Iniciando o front-end:
-- Acessar o terminal: cd Telephony-TalkMore/client - npm run dev
+- Acessar o terminal: npm run dev
 
 Após rodar esses dois códigos no terminal o projeto estará em funcionamento.
 
