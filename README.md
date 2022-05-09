@@ -8,8 +8,8 @@
 # Development
 
 Para iniciar o desenvolvimento é necessário clonar o projeto:
--Abrir o terminal;
--cd "pasta de sua escolha";
+- Abrir o terminal;
+- cd "pasta de sua escolha";
 - git clone https://github.com/dsilva7/Telephony-TalkMore.git
 
 # Settings
